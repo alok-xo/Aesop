@@ -1,0 +1,35 @@
+.firstn p {
+    font-size: 1.40rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: 300;
+    height: 2vh;
+}
+
+.firstn {
+    background-color: #c2c2af;
+    padding: .5rem 0rem;
+    align-items: center;
+}
+
+.firstn b:hover {
+    border-bottom: 1px solid black;
+}
+.secondn {
+    align-items: center;
+    height: 5.3vh;
+    font-size: 1.5rem;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    font-size: 1.5rem;
+    height: 10vh;
+    align-items: center;
+}
+.list, span{
+    margin: 0rem 1rem;
+}

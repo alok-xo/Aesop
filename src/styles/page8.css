@@ -1,0 +1,103 @@
+.life>h1 {
+    font-family: 'EB Garamond', serif;
+    display: flex;
+    justify-content: center;
+    font-size: 2vw;
+}
+
+.life>p {
+    display: flex;
+    justify-content: center;
+    font-size: 2vw;
+    font-size: .8vw;
+    font-family: 'REM', sans-serif;
+    font-weight: 500;
+}
+
+.footer {
+    height: 88vh;
+    background-color: #252525;
+    margin-top: 15rem;
+    color: #fff;
+    padding: 2vw 2vw;
+    font-size: 1vw;
+    position: relative;
+}
+
+.upperone {
+    display: flex;
+    gap: 8rem;
+}
+
+.prt1 {
+    width: 25vw;
+}
+
+#prt2 {
+    position: absolute;
+    right: 2vw;
+    display: flex;
+    gap: 2vw;
+}
+
+.ord {
+    border-bottom: 1px solid #fff;
+    width: 18vw;
+    line-height: 8vh;
+}
+
+#orb {
+    border-bottom: 1px solid #fff;
+    width: 34.7vw;
+    line-height: 8vh;
+}
+
+.p1txts {
+    >input {
+        margin-top: 2rem;
+        width: 34.7vw;
+        padding: 2vh 1.5vh;
+        color: #fff;
+        background: #252525;
+        border: 1px solid #fff;
+    }
+
+    >span {
+        position: absolute;
+        margin-top: 3.3vh;
+        margin-left: -4vh;
+    }
+}
+
+.p1txtspara {
+    width: 34.7vw;
+    >p{
+        font-weight: 200;
+    }
+}
+li{
+    list-style: none;
+    line-height: 4.5vh;
+    font-weight: 200;
+}
+#shipp{
+    font-weight: 400;
+}
+#cmdo{
+    margin-top: 12rem;
+}
+#tobi{
+    border: none;
+}
+.bones{
+    height: 10vh;
+    background: #252525;
+    /* margin-top: -5rem; */
+    padding: 0;
+    border-top: 2px solid #fff;
+    color: #fff;
+    >h3{
+        padding: 4vh;
+        font-weight: 400;
+    }
+}

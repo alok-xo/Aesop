@@ -1,0 +1,55 @@
+.img-container img {
+    height: 70vh;
+    position: absolute;
+    right: 0;
+    margin-top: -28vh;
+}
+
+.third-page>.textpart {
+    width: 25vw;
+    margin-left: 5vw;
+    /* margin-top: 10vh; */
+    font-size: .9vw;
+
+    >h1 {
+        font-family: 'EB Garamond', serif;
+        font-size: 2vw;
+    }
+
+    >p {
+        line-height: 3.5vh;
+        font-size: 1.1vw;
+    }
+}
+
+.third-page {
+    height: 90vh;
+    margin-top: 15vh;
+}
+
+.btnpart>button {
+    padding: 1.4vw 2vw;
+    width: 22vw;
+    position: absolute;
+    border: 1px solid rgb(151, 150, 150);
+    margin-top: 4vh;
+    transition: .5s;
+    background-color: #fff;
+}
+
+.btnpart>button:hover {
+    background: #000;
+    color: #fff;
+}
+
+
+.icon {
+    position: absolute;
+    right: 0;
+    margin-top: -2.4vh;
+}
+
+.txt {
+    text-align: left;
+    display: flex;
+}

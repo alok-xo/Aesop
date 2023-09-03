@@ -1,0 +1,43 @@
+.images {
+    margin-right: 14vw;
+}
+
+.p2,
+input {
+    height: 3vh;
+}
+
+.card {
+    border: none;
+    padding-top: 23vw;
+    padding-bottom: 8vw;
+}
+
+
+.card-body {
+    overflow: hidden;
+    text-align: center;
+    width: 20vw;
+
+    >p {
+        font-size: .9vw;
+        margin-top: 2vh;
+    }
+    >h2{
+        font-size: small;
+        margin-top: 2vh;
+    }
+}
+
+.left {
+    padding: 10vw 5vw;
+
+    >p {
+        font-size: 1vw;
+        width: 29vw;
+    }
+
+    >h1 {
+        font-family: 'EB Garamond', serif;
+    }
+}

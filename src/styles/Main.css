@@ -1,0 +1,81 @@
+    main {
+    height: 78vh;
+    
+}
+.bgdiv{
+    background-image: url(https://www.aesop.com/u1nb1km7t5q7/AGQGWYrTapcQI1NrPvsYU/11e99769c1767531dd3c12b6fce85f37/Aesop_Bar_Soaps_2023_Web_Homepage_2_Primary_Full_Bleed_Desktop_2880x1044px.jpg);
+    background-size: cover;
+    height: 100%;
+}
+.text h1{
+    color: #ffffff;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: 'EB Garamond', serif;
+    background: none;
+}
+.mark{
+    font-size: 1.2rem;
+    background: none;
+    margin-left: -.2rem;
+}
+.side{
+    margin-left: 5vw;
+    width: 28vw;
+}
+.bgdiv{
+    padding: 8.5rem 3.6rem;
+}
+.side>h1{
+    font-size: 2vw;
+    font-weight: 300;
+}
+.breath{
+    margin-top: 3vh;
+    line-height: 2.8vh;
+    font-weight: 300;
+    font-size: 1vw;
+}
+.side>h5{
+    font-size: .9vw;
+    font-size: 400;
+}
+.side>button{
+    /* border: none; */
+    padding: 1.2vw 1.5vw;
+    width: 19.8vw;
+    background: transparent;
+    border: 1px solid #fff;
+    text-align: start;
+    color: #fff;
+    font-size: .9vw;
+    position: absolute;
+    transition: .3s;
+}
+.btnicon{
+    position: absolute;
+    right: 0;
+    padding-right: .8vw;
+}
+.side>button:hover{
+    background-color: #ffffff;
+    color: #000;
+}
+.msg{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding: 7vw 3vw;
+    text-align: center;
+}
+.msg>button{
+    height: 6.5vh;
+    padding: 1vw;
+    border-radius: 50%;
+    text-align: center;
+    border:1px solid #fff;  
+    font-size: 2rem;
+    background: #000;
+    color: #fff;
+    opacity: .7;
+}

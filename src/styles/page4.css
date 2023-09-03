@@ -1,0 +1,41 @@
+.full {
+    display: flex;
+}
+
+.img-containr {
+    margin-left: -5rem;
+    display: flex;
+
+    >img {
+        margin-right: -1vw;
+    }
+}
+
+.p4 {
+    width: 40vw;
+    padding: 2vw 5vw;
+
+    >h1 {
+        font-family: 'EB Garamond', serif;
+    }
+
+    >p {
+        font-size: 1vw;
+        font-weight: 300;
+    }
+}
+
+.txtar {
+    margin-left: 1.6rem;
+    margin-top: 3.3rem;
+    line-height: 3.5rem;
+    text-align: center;
+
+    >p {
+        font-size: 1vw;
+    }
+}
+
+.ms5 {
+    margin-left: 13rem;
+}
